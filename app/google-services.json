@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "209323897751",
+    "firebase_url": "https://shopassistant-176813.firebaseio.com",
+    "project_id": "shopassistant-176813",
+    "storage_bucket": "shopassistant-176813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209323897751:android:885232d52d8f7c0b",
+        "android_client_info": {
+          "package_name": "com.shopAssistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209323897751-agbm7djslka3idheo6dt0agf951cmfhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0erBhL5bLWipNJ3eEW-nNAup0XdtRZng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209323897751:android:bc7b46b8bf54c09f",
+        "android_client_info": {
+          "package_name": "com.estimote.indoorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209323897751-agbm7djslka3idheo6dt0agf951cmfhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0erBhL5bLWipNJ3eEW-nNAup0XdtRZng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
